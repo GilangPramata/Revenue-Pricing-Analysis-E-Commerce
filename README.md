@@ -1,4 +1,4 @@
-#Revenue & Pricing Analysis
+# Revenue & Pricing Analysis
 
 An end-to-end analysis of what drives revenue for a UK online gift retailer, and how
 **pricing and promotions** affect volume and margin. Built on the **UCI Online Retail**
